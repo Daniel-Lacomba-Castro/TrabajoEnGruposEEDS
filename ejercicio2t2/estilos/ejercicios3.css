@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(169, 255, 255);
+}
+.titulos{
+    background-color: rgb(148, 148, 255);
+}
+.rojo{
+    color: red;
+    text-decoration: underline;
+}
+.sub{
+    
+    
+    background-color: rgb(5, 187, 187);
+    color: white;
+}
+.amari{
+    color: yellow;
+}
