@@ -1,0 +1,23 @@
+p {
+    background-color: antiquewhite;
+    color: brown;
+}
+body {
+    background-color: lightsalmon;
+}
+
+#resaltar1 {
+    /* colores */
+    background-color: yellow;
+   /* color: red; */
+}
+.tipo2 {
+    font-size: 30px;
+    font-weight: lighter;
+    color: blue;
+}
+.tipo1 {
+    font-size: 10px;
+    font-weight: bold;
+    color: chartreuse;
+}
